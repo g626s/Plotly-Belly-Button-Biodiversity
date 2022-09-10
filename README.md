@@ -5,6 +5,14 @@ Building an interactive dashboard using `JavaScript` and `Plotly.js` to explore 
 Visit the Plotly Bellybutton Biodiversity dashboard [here](https://g626s.github.io/Plotly-Belly-Button-Biodiversity/).
 
 ## Resources
+- `Data:`
+  - [samples.json](https://github.com/g626s/Plotly-Belly-Button-Biodiversity/blob/main/samples.json)
+- `Software/Application:`
+  - JavaScript
+  - Plotly.js
+  - HTML/CSS
+  - Bootstrap
+  - D3 Visualization
 
 ## Project Overview
 

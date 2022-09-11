@@ -19,3 +19,5 @@ This project incorporated a dynamic and interactive visualization dashboard and 
 
 ## Results and Dashboard Framework
 The complete results was an interactive dashboard launched through GitHub Pages. 
+
+<img width="1249" alt="Screen Shot 2022-09-11 at 3 32 30 PM" src="https://user-images.githubusercontent.com/107281474/189551662-b7eeeb0e-ad6c-4efe-bb88-f4e8aad09d48.png">
